@@ -1,0 +1,50 @@
+:root {
+    --secondary-background-color: #f1f1f1;
+    --primary-background-color: #fff;
+    --primary-nav-background: #f1f1f1;
+    --service-box-background: #f1f1f1;
+    --about-background: #f1f1f1;
+    --contact-containter-background: #F0E2D2;
+    --primary-nav-txt: #1F3A93;
+    --footer-background: #f1f1f1;
+    --font-size-xsm: 1.2rem;
+    --font-size-sm: 1.6rem;
+    --font-size-md: 1.9rem;
+    --font-size-lg: 3rem;
+    --font-size-xl: 4rem;
+    --font-size-xxl: 7rem;
+    --gap: 2rem;
+    --gapnav: 7rem;
+    --margin-sm: 2rem;
+    --margin-md: 3.5rem;
+    --padding-md: 3.5rem;
+    --padding-lr: 2rem;
+    --padding-underheader: 0.5rem;
+    --item-min-height-sm: 20rem;
+    --item-min-height-md: 30rem;
+}
+
+
+.content {
+    text-align: center;
+}
+
+.content-logo {
+    display: none;
+    opacity: 0;
+    width: 90%;
+}
+
+.content h1 {
+    color: #E6F2FF;
+    font-size: var(--font-size-xxl);
+    font-weight: 600;
+}
+
+p {
+    color: #333333;
+}
+
+.content a {
+    text-decoration: none;
+}
